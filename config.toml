@@ -1,0 +1,22 @@
+baseURL = "https://101daysofcode.github.io/"
+languageCode = "en-us"
+title = "101daysofcode"
+theme = "journal"
+
+[author]
+  name = "Mithun Singh"
+  homepage = "https://codersarc.pw/"
+
+[params]
+  description = "Blog meta description."
+  githubUsername = "mithuns"
+  twitterUsername = "robmit11"
+  tagline = "Progress Tracking Journal"
+[params.work]
+  jobTitle = "Code Meddler"
+  company = "the company"
+  companyUrl = "https://codersarc.pw"
+#[params.gpg]
+#  key = "0x1111111111111111"
+#  fingerprint = "0000 0000 0000 0000 0000  0000 0000 0000 0000 0000"
+#  link = "https://pgp.mit.edu/pks/lookup?op=get&search=0x1111111111111111"

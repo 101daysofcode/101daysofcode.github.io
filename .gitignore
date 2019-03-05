@@ -1,0 +1,12 @@
+#git files
+/.github
+
+#Hugo output
+/public/*
+!/public/.gitkeep
+
+#Hugo theme files
+/themes/*
+
+# IDEA configuration
+.idea/
