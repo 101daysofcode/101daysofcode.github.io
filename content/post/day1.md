@@ -12,4 +12,3 @@ draft: false
 1. This journal is a hugo theme based website, the source code for which can be viewed [101daysofcode/hugo-journal](https://github.com/101daysofcode/hugo-journal)
 
 ---
-
