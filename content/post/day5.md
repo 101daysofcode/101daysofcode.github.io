@@ -1,6 +1,6 @@
 ---
-title: "Day-5 (Started reading PureReact)"
-description: "Reading PureReact by Dave Ceddia"
+title: "Day-5 (Started working on React Exercises)"
+description: "Learning how to do React"
 date: 2019-03-08T16:20:16+02:00
 draft: false
 ---
