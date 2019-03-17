@@ -1,5 +1,5 @@
 ---
-title: "Day-12(Applied Visual Design)"
+title: "Day-12 (Applied Visual Design)"
 description: "Applied Visual Design"
 date: 2019-03-15T16:20:16+02:00
 draft: false
