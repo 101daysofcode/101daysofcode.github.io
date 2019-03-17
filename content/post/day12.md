@@ -9,4 +9,4 @@ draft: false
 
 ---
 
-![Image of Yaktocat](/images/day12.png)
+![day-12](/images/day12.png)
