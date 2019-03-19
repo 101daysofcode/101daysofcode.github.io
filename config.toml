@@ -2,6 +2,7 @@ baseURL = "https://101daysofcode.github.io/"
 languageCode = "en-us"
 title = "101daysofcode"
 theme = "journal"
+enableEmoji = true
 
 [author]
   name = "Mithun Singh"
