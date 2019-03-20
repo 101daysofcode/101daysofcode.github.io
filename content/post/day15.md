@@ -1,7 +1,7 @@
 ---
 title: "Day-15 (Worked on making a hugo theme support multi-author)"
 description: "Started working on a hugo theme"
-date: 2019-03-T19:20:16+02:00
+date: 2019-03-19T16:20:16+02:00
 draft: false
 ---
 
