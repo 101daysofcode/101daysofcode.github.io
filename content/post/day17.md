@@ -11,4 +11,4 @@ draft: false
 
 ---
 
-![Rocket is ready to fly](https://github.com/101daysofcode/learning-how-to-bootstrap/blob/master/bootstrap-beginner/ch02/spacesuit.jpg?raw=true)
+![Rocket is ready to fly](/images/spacesuit.jpg)
