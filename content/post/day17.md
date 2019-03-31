@@ -1,5 +1,5 @@
 ---
-title: "Day-17 (Started doing Pluralsight courses on bootstrap)"
+title: "Day-17 (Did Pluralsight course on bootstrap)"
 description: "Started a beginner course on bootstrap 3.3"
 date: 2019-03-21T16:20:16+02:00
 draft: false
