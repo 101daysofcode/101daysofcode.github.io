@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>101daysofcode</title>
+    <link>https://101daysofcode.github.io/</link>
+    <description>Recent content on 101daysofcode</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Mar 2019 16:20:16 +0200</lastBuildDate>
+    
+	<atom:link href="https://101daysofcode.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day-22 (Completed CSS Flexbox Section)</title>
+      <link>https://101daysofcode.github.io/post/day22/</link>
+      <pubDate>Tue, 26 Mar 2019 16:20:16 +0200</pubDate>
+      
+      <guid>https://101daysofcode.github.io/post/day22/</guid>
+      <description> Finished CSS Flexbox concept. CSS Flexbox  </description>
+    </item>
+    
+    <item>
+      <title>Day-21 (Started CSS Flexbox Section)</title>
+      <link>https://101daysofcode.github.io/post/day21/</link>
+      <pubDate>Mon, 25 Mar 2019 16:20:16 +0200</pubDate>
+      
+      <guid>https://101daysofcode.github.io/post/day21/</guid>
+      <description> Started on learning CSS Flexbox concept. CSS Flexbox  </description>
+    </item>
+    
+    <item>
+      <title>Day-20 (Completed Responsive Web Design Section)</title>
+      <link>https://101daysofcode.github.io/post/day20/</link>
+      <pubDate>Sun, 24 Mar 2019 16:20:16 +0200</pubDate>
+      
+      <guid>https://101daysofcode.github.io/post/day20/</guid>
+      <description> Learned about how to make a website more responsive with different screen sizes. Responsive Web Design Challenges  </description>
+    </item>
+    
+    <item>
+      <title>Day-19 (Completed Applied Accessibility Section)</title>
+      <link>https://101daysofcode.github.io/post/day19/</link>
+      <pubDate>Sat, 23 Mar 2019 16:20:16 +0200</pubDate>
+      
+      <guid>https://101daysofcode.github.io/post/day19/</guid>
+      <description> Learned about how to make a website Accessible with Screen Reader. Applied Accessibility Challenges  </description>
+    </item>
+    
+    <item>
+      <title>Day-18 (Completed Pluralsight beginner course on bootstrap)</title>
+      <link>https://101daysofcode.github.io/post/day18/</link>
+      <pubDate>Fri, 22 Mar 2019 16:20:16 +0200</pubDate>
+      
+      <guid>https://101daysofcode.github.io/post/day18/</guid>
+      <description> Learning basics of Bootstrap Learned about Typography and navbar &amp;mdash;  </description>
+    </item>
+    
+    <item>
+      <title>Day-17 (Did Pluralsight course on bootstrap)</title>
+      <link>https://101daysofcode.github.io/post/day17/</link>
+      <pubDate>Thu, 21 Mar 2019 16:20:16 +0200</pubDate>
+      
+      <guid>https://101daysofcode.github.io/post/day17/</guid>
+      <description> Learning basics of Bootstrap Learned about CSS grid system. How to define behaviour for different screen sizes.  </description>
+    </item>
+    
+    <item>
+      <title>Day-16 (Started doing Pluralsight courses on bootstrap)</title>
+      <link>https://101daysofcode.github.io/post/day16/</link>
+      <pubDate>Wed, 20 Mar 2019 16:20:16 +0200</pubDate>
+      
+      <guid>https://101daysofcode.github.io/post/day16/</guid>
+      <description> Learning basics of Bootstrap Started a Pluralsight course  </description>
+    </item>
+    
+    <item>
+      <title>Day-15 (Worked on making a hugo theme support multi-author)</title>
+      <link>https://101daysofcode.github.io/post/day15/</link>
+      <pubDate>Tue, 19 Mar 2019 16:20:16 +0200</pubDate>
+      
+      <guid>https://101daysofcode.github.io/post/day15/</guid>
+      <description> Started working to create a new theme that is based off of hugo-docdock but is more suitable for enterprise needs. This is not fully done yet.  </description>
+    </item>
+    
+    <item>
+      <title>Day-14 (Looked into enabling emojis)</title>
+      <link>https://101daysofcode.github.io/post/day14/</link>
+      <pubDate>Sun, 17 Mar 2019 16:20:16 +0200</pubDate>
+      
+      <guid>https://101daysofcode.github.io/post/day14/</guid>
+      <description>Wanted to use emojis and bit of a googling, and voila. 😄 👍 Turns out all you need to do is add this one property in config.toml enableEmoji = true And then I thought , well, lets try all of github supported emojis.  Using the cheat sheet provided here gh-gist
+Not so sure how official this is.
+And now for funsies.
+People
+   `` 😄 😄 😆 😆     😊 😊 😃 😃 ☺️ ☺️   😏 😏 😍 😍 😘 😘   😚 😚 😳 😳 😌 😌   😆 😆 😁 😁 😉 😉   😜 😜 😝 😝 😀 😀   😗 😗 😙 😙 😛 😛   :sleeping: 😴 😟 :worried: 😦 😦   😧 😧 :open_mouth: 😮 :grimacing: 😬   😕 😕 😯 😯 😑 :expressionless:   😒 :unamused: 😅 :sweat_smile: 😓 😓   😥 :disappointed_relieved: 😩 😩 😔 😔   😞 😞 😖 :confounded: 😨 😨   😰 😰 😣 :persevere: 😢 😢   😭 😭 😂 😂 😲 😲   😱 😱 `` 😫 😫   😠 😠 😡 😡 😤 😤   😪 😪 😋 😋 😷 😷   😎 😎 😵 😵 👿 👿   😈 😈 😐 😐 😶 😶   😇 😇 👽 👽 💛 💛   💙 💙 💜 💜 ❤️ ❤️   💚 💚 💔 💔 :heartbeat: 💓   💗 :heartpulse: 💕 💕 :revolving_hearts: 💞   :cupid: 💘 💖 :sparkling_heart: ✨ :sparkles:   ⭐️ ⭐️ 🌟 🌟 💫 💫   💥 💥 💥 💥 💢 💢   ❗️ ❗️ ❓ ❓ ❕ ❕   ❔ ❔ :zzz: 💤 💨 💨   💦 💦 🎶 🎶 🎵 🎵   🔥 🔥 💩 💩 💩 💩   💩 💩 👍 👍 👍 👍   👎 👎 👎 👎 👌 👌   👊 👊 👊 👊 ✊ ✊   ✌️ ✌️ 👋 👋 ✋ ✋   ✋ ✋ 👐 👐 ☝️ ☝️   👇 👇 👈 👈 👉 👉   🙌 🙌 🙏 🙏 👆 👆   👏 👏 💪 💪 🤘 🤘   🖕 🖕 🚶 🚶 🏃 🏃   🏃 🏃 👫 👫 👪 👪   👬 👬 👭 👭 💃 💃   👯 👯 🙆 🙆 🙅 🙅   💁 💁 :raising_hand: 🙋 :bride_with_veil: 👰   :person_with_pouting_face: 🙎 :person_frowning: 🙍 :bow: 🙇   :couplekiss: :couplekiss: 💑 :couple_with_heart: 💆 💆   💇 💇 💅 💅 👦 👦   👧 👧 👩 👩 👨 👨   👶 👶 👵 👵 👴 👴   👱 👱 👲 :man_with_gua_pi_mao: 👳 :man_with_turban:   👷 :construction_worker: 👮 👮 👼 👼   👸 👸 😺 😺 😸 😸   😻 :heart_eyes_cat: 😽 :kissing_cat: 😼 :smirk_cat:   🙀 🙀 😿 :crying_cat_face: 😹 😹   😾 😾 :japanese_ogre: 👹 :japanese_goblin: 👺   :see_no_evil: 🙈 :hear_no_evil: 🙉 :speak_no_evil: 🙊   :guardsman: 💂 💀 💀 🐾 🐾   👄 👄 💋 💋 💧 💧   👂 👂 👀 👀 👃 👃   👅 👅 💌 💌 👤 👤   👥 👥 💬 :speech_balloon: 💭 :thought_balloon:   `` :finnadie: `` :goberserk: ``   :godmode: `` :hurtrealbad: `` :rage1: ``   :rage2: :rage3: ``   :suspect: :trollface:     Nature</description>
+    </item>
+    
+    <item>
+      <title>Day-13 (Finished Applied Visual Design)</title>
+      <link>https://101daysofcode.github.io/post/day13/</link>
+      <pubDate>Sat, 16 Mar 2019 16:20:16 +0200</pubDate>
+      
+      <guid>https://101daysofcode.github.io/post/day13/</guid>
+      <description> Finished Applied Visual Design. 👍 CSS. Started Applied Accessibility lessons. 😆 👍  </description>
+    </item>
+    
+    <item>
+      <title>Day-12 (Applied Visual Design)</title>
+      <link>https://101daysofcode.github.io/post/day12/</link>
+      <pubDate>Fri, 15 Mar 2019 16:20:16 +0200</pubDate>
+      
+      <guid>https://101daysofcode.github.io/post/day12/</guid>
+      <description> Started Applied Visual Design. CSS.  </description>
+    </item>
+    
+    <item>
+      <title>Day-11 (FreeCodeCamp CSS lessons)</title>
+      <link>https://101daysofcode.github.io/post/day11/</link>
+      <pubDate>Thu, 14 Mar 2019 16:20:16 +0200</pubDate>
+      
+      <guid>https://101daysofcode.github.io/post/day11/</guid>
+      <description> Completed CSS lessons now. CSS.  </description>
+    </item>
+    
+    <item>
+      <title>Day-10 (FreeCodeCamp CSS lessons)</title>
+      <link>https://101daysofcode.github.io/post/day10/</link>
+      <pubDate>Wed, 13 Mar 2019 16:20:16 +0200</pubDate>
+      
+      <guid>https://101daysofcode.github.io/post/day10/</guid>
+      <description> I think I should aim to get this certification now.CSS.  </description>
+    </item>
+    
+    <item>
+      <title>Day-9 (FreeCodeCamp Html5 lessons)</title>
+      <link>https://101daysofcode.github.io/post/day9/</link>
+      <pubDate>Tue, 12 Mar 2019 16:20:16 +0200</pubDate>
+      
+      <guid>https://101daysofcode.github.io/post/day9/</guid>
+      <description> Done with html.Html5.  </description>
+    </item>
+    
+    <item>
+      <title>Day-8 (FreeCodeCamp Html5 lessons)</title>
+      <link>https://101daysofcode.github.io/post/day8/</link>
+      <pubDate>Mon, 11 Mar 2019 16:20:16 +0200</pubDate>
+      
+      <guid>https://101daysofcode.github.io/post/day8/</guid>
+      <description> Realized I dont fully remember what html used to be.Html5.  </description>
+    </item>
+    
+    <item>
+      <title>Day-7 (React PropTypes)</title>
+      <link>https://101daysofcode.github.io/post/day7/</link>
+      <pubDate>Sun, 10 Mar 2019 16:20:16 +0200</pubDate>
+      
+      <guid>https://101daysofcode.github.io/post/day7/</guid>
+      <description> Spent time making the tweet validated using React.PropTypes.Pure React Exercises.  </description>
+    </item>
+    
+    <item>
+      <title>Day-6 (React Exercises)</title>
+      <link>https://101daysofcode.github.io/post/day6/</link>
+      <pubDate>Sat, 09 Mar 2019 16:20:16 +0200</pubDate>
+      
+      <guid>https://101daysofcode.github.io/post/day6/</guid>
+      <description> Spent time going through more code exercises from pure react book.Pure React Exercises.  </description>
+    </item>
+    
+    <item>
+      <title>Day-5 (Started working on React Exercises)</title>
+      <link>https://101daysofcode.github.io/post/day5/</link>
+      <pubDate>Fri, 08 Mar 2019 16:20:16 +0200</pubDate>
+      
+      <guid>https://101daysofcode.github.io/post/day5/</guid>
+      <description> Spent time working on building a react component for a tweet object.Pure React Exercises.  </description>
+    </item>
+    
+    <item>
+      <title>Day-4 (Started reading PureReact)</title>
+      <link>https://101daysofcode.github.io/post/day4/</link>
+      <pubDate>Thu, 07 Mar 2019 16:20:16 +0200</pubDate>
+      
+      <guid>https://101daysofcode.github.io/post/day4/</guid>
+      <description> Started reading this super awesome React book that only explains one thing Pure React.  </description>
+    </item>
+    
+    <item>
+      <title>Day-3 (Worked on making a hugo theme i18n)</title>
+      <link>https://101daysofcode.github.io/post/day3/</link>
+      <pubDate>Wed, 06 Mar 2019 16:20:16 +0200</pubDate>
+      
+      <guid>https://101daysofcode.github.io/post/day3/</guid>
+      <description> Started working to create a new theme that is based off of hugo-multilingual-example but is more suitable for enterprise needs. This is not fully done yet.  </description>
+    </item>
+    
+    <item>
+      <title>Day-2 (Setting up CI for this journal)</title>
+      <link>https://101daysofcode.github.io/post/day2/</link>
+      <pubDate>Tue, 05 Mar 2019 16:20:16 +0200</pubDate>
+      
+      <guid>https://101daysofcode.github.io/post/day2/</guid>
+      <description> Decided if I was going to use the journal blog, why fiddle around with source/master branch and manual pushes into master branch. Configured travis ci build script with personal access token and username to publish into master on successful builds.  </description>
+    </item>
+    
+    <item>
+      <title>Day-1 (Setting up this journal)</title>
+      <link>https://101daysofcode.github.io/post/day1/</link>
+      <pubDate>Mon, 04 Mar 2019 16:20:16 +0200</pubDate>
+      
+      <guid>https://101daysofcode.github.io/post/day1/</guid>
+      <description> Started with 101daysofcode challenge. Decided on making a hugo based journal website. Found a decent theme for a journal blog, so forked it, will possibly be updating it in future. Day1&amp;rsquo;s work was to get a journal setup so its easy for me to track my progress. This journal is a hugo theme based website, the source code for which can be viewed 101daysofcode/hugo-journal  </description>
+    </item>
+    
+  </channel>
+</rss>
